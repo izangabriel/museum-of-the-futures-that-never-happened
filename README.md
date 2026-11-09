@@ -126,6 +126,4 @@ El mapa, la lista, los contadores y las alertas se actualizan solos.
 
 **Gabriel Gallegos Bautista**, desarrollador frontend.
 
-- Portafolio: [gabrielgallegosbautista.com](https://gabrielgallegosbautista.com)
-- LinkedIn: [tu perfil de LinkedIn]
-- GitHub: [tu perfil de GitHub]
+- Portafolio: [gabrielgallegosbautista.co](https://portafolio-six-vert-50.vercel.app/)
