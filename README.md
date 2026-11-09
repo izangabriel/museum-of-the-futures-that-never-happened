@@ -2,10 +2,7 @@
 
 Un archivo clasificado interactivo con objetos de líneas temporales que jamás existieron, repartidos por todo el planeta. Cada objeto trae documentos que se contradicen entre sí: tú decides cuáles son auténticos y, con eso, qué historia queda en pie.
 
-**Demo en vivo:** [URL de la demo]
-
-![Mapa del archivo](./docs/mapa.png)
-![Expediente de un objeto](./docs/expediente.png)
+**Demo en vivo:** https://museo-futuros.netlify.app/
 
 ## Cómo funciona
 
